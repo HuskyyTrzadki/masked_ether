@@ -12,6 +12,7 @@
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
+    "@types/three": "^0.146.0",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.5",
     "next": "13.0.5",
@@ -19,6 +20,10 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "spotify-web-api-node": "^5.0.2",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.146.0",
+    "three.js": "^0.77.1",
+    "types": "^0.1.1",
     "typescript": "4.9.3"
   },
   "devDependencies": {
